@@ -1,0 +1,35 @@
+{
+  "name": "graphicsmagick",
+  "description": "Installs/Configures GraphicsMagick",
+  "long_description": "Installs/Configures GraphicsMagick",
+  "maintainer": "Dotan Nahum",
+  "maintainer_email": "jondotan@gmail.com",
+  "license": "MIT",
+  "platforms": {
+    "fedora": ">= 0.0.0",
+    "centos": ">= 0.0.0",
+    "rhel": ">= 0.0.0",
+    "ubuntu": ">= 0.0.0",
+    "debian": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "imagemagick": "Installs GraphicsMagick package"
+  },
+  "version": "0.1.0"
+}
